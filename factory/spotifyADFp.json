@@ -1,0 +1,15 @@
+{
+	"name": "spotifyADFp",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "011d43ec-0940-479b-b014-56cf98be5c67",
+		"tenantId": "f703cdaa-4767-445b-9cf5-2afd39a45650"
+	}
+}
